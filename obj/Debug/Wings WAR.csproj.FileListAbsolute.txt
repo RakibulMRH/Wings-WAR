@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Wings WAR\obj\Debug\Wings WAR.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Wings WAR\obj\Debug\Wings WAR.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Wings WAR\bin\Debug\Wings WAR.exe.config
+C:\Users\ASUS\source\repos\Wings WAR\bin\Debug\Wings WAR.exe
+C:\Users\ASUS\source\repos\Wings WAR\bin\Debug\Wings WAR.pdb
+C:\Users\ASUS\source\repos\Wings WAR\obj\Debug\Wings WAR.exe
+C:\Users\ASUS\source\repos\Wings WAR\obj\Debug\Wings WAR.pdb
+E:\AIUB\Wings WAR\bin\Debug\Wings WAR.exe.config
+E:\AIUB\Wings WAR\bin\Debug\Wings WAR.exe
+E:\AIUB\Wings WAR\bin\Debug\Wings WAR.pdb
+E:\AIUB\Wings WAR\obj\Debug\Wings WAR.csproj.AssemblyReference.cache
+E:\AIUB\Wings WAR\obj\Debug\Wings WAR.csproj.CoreCompileInputs.cache
+E:\AIUB\Wings WAR\obj\Debug\Wings WAR.exe
+E:\AIUB\Wings WAR\obj\Debug\Wings WAR.pdb
